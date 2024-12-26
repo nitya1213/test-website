@@ -1,0 +1,27 @@
+. {
+  padding: 10px;
+  border-radius: 5px;
+}
+.banner {
+    background-image: url(./asset/logo/bts.jpg);
+    height: 20vw;
+    min-height: 100px;
+    
+  }
+
+  .home{
+    padding: 15px;
+    background-size: 20px;
+    background-color: saddlebrown;
+    text-decoration: none;
+    
+  }
+  nav a:hover{
+    color: darkblue;
+  }
+  .sec{
+    padding: 15px;
+    border border-radius: 5px;
+
+  }
+
